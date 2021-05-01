@@ -9,4 +9,4 @@ This is an application that uses a timer and is made in the Java Swing graphical
   4. Choose color.
   5. Set speed.
   6. Select "start" button.
-  7. Wait to application start.
+  7. Wait application to start.
